@@ -6,6 +6,8 @@ This repository contains the **offical** PyTorch implementation of paper:
 
 *LHNet: A Low-cost Hybrid Network for Single Image Dehazing*, ACM MM 2023
 
+<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612594">[Paper Link]</a>
+
 ![1](./README.assets/1.jpg)
 
 ## Dependences
