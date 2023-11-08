@@ -170,9 +170,11 @@ CUDA_VISIBLE_DEVICES=0 python src/test.py \
 ## Citing LHNet
 If you find LHNet useful in your research, please consider citing our paper:
 ```
-@inproceedings{,
-  title={},
-  author={},
+@inproceedings{yuan2023lhnet,
+  title={LHNet: A Low-cost Hybrid Network for Single Image Dehazing},
+  author={Yuan, Shenghai and Chen, Jijia and Li, Jiaqi and Jiang, Wenchao and Guo, Song},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={7706--7717},
   year={2023}
 }
 ```
