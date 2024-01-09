@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./README.assets/4.png" width="200" height="150"/>
+    <img src="./README.assets/4.png" width="200" height="200"/>
 </p>
    
 # LHNet: A Low-cost Hybrid Network for Single Image Dehazing
