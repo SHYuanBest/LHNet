@@ -1,4 +1,11 @@
+<p align="center">
+    <img src="./README.assets/2.png"/>
+<p>
+   
 # LHNet: A Low-cost Hybrid Network for Single Image Dehazing
+
+## News
+* **[2024.1.09]**  We have comprehensively improved the performance of LHNetV1, especially the inference speed, and latest paper is currently under review. The code of LHNetV2 will be released after the latest paper is accepted.
 
 ## Overview
 
