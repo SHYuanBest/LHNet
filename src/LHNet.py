@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from utils_modules import SwinTransformer, FIF_Module, FMI_Module, PPM, Downsample, Upsample
 import torch.nn.functional as F
-import torch
+
 class LHNet(nn.Module):
     """Implementation of LHNet from Shenghai Yuan et al. (ACM MM 2023)."""
     def __init__(self, in_channels=3, out_channels=3,bias=False):
